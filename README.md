@@ -31,6 +31,7 @@ Gostei de mais, e sei do pontencial das IAs generativas para o futuro.
 
 Link do Video 1/
 https://drive.google.com/file/d/12zqyxp_vdalDV8nZz6MTuQeBdZC8gczd/view
+
 Link do Video 2/
 https://drive.google.com/file/d/12xS0WOmHUKnUX5yCLhfpWBnuB5-Jn4HG/view
 
