@@ -2,41 +2,37 @@
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esse projeto trata de uma experimentacao usando IA[s Generativas.
+Foi utilizado uma tecnologia de IA, na qual utilizou recursos de uma CPU de um aparelho celular da Xiaomi Redmi 11S, para ~rendeterizar~ uma foto estatica em um video.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPt, 3.5 gratuito, para gerar o roteiro da fala. VidGen, um aplicativo de animacao de IA, criando avatares e uma cpu do aparelho Redmi 11S
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Atraves do curso, fiz a pesquisa para uma apresentacao de IA, atraves de uma foto estatica em que se transformou em um video curto.
+Com a ajuda do ChatGPT, solicitei, atraves de um PROMPT, uma piada INEDITA, de papagaio.
+Com a piada ESCRITA, pedi ao app VidGen, para sintetizar o texto em fala.
+Tirei uma foto com minha prima e minha gata, para, justamente, testar a habilidade de uma IA em destacar um rosto especifico, no caso o meu, deixando de lado a minha prima e a
+mimnha gata.
+Dai, foi feito o upload da fotografia, tirada pelo celular e feita a rendenterizacao, utilizando parte da memoria e a grande parte da CPU do celular.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Para validar ainda mais o desafio, pedi para que a voz fosse FEMININA. E saiu meu rosto com movimentos de labios, sincronizados, contando uma piada INEDITA de papagaio.
+De `brinde` pedi tambem para fazer uma propaganda em ~video~ (com audio, e claro), para um colega de servico, de um `santinho` para uma campanha de Conselho tutular.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Gostei de mais, e sei do pontencial das IAs generativas para o futuro.
 ```
+
+Link do Video 1/
+https://drive.google.com/file/d/12zqyxp_vdalDV8nZz6MTuQeBdZC8gczd/view
+Link do Video 2/
+https://drive.google.com/file/d/12xS0WOmHUKnUX5yCLhfpWBnuB5-Jn4HG/view
 
 ### Exemplos e Insigths
 
